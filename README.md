@@ -8,10 +8,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+```
+1. Data Preprocessing: Cleanse data, handle missing values, encode categorical variables.
+2.Model Training: Fit logistic regression model on preprocessed data.
+3.Model Evaluation: Assess model performance using metrics like accuracy, precision, recall.
+4.Prediction: Predict placement status for new student data using trained model.
+```
 
 ## Program:
 ```
