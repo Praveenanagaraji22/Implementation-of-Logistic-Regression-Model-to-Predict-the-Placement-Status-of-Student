@@ -27,13 +27,9 @@ RegisterNumber: 212222040122
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/OneDrive/Documents/INTRO TO ML/Placement_Data.csv")
 data.head()
-```
-```
 data1=data.copy()
 data1=data1.drop(["sl_no","salary"],axis=1)
 data.head()
-```
-```
 data1.isnull()
 ```
 ```
