@@ -22,13 +22,13 @@ STEP 5. Prediction: Predict placement status for new student data using trained 
 STEP 6.End the program.
 
 ## Program:\
-
+```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: PRAVEENA N
 RegisterNumber: 212222040122
 */
-
+```
 ```
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/OneDrive/Documents/INTRO TO ML/Placement_Data.csv")
